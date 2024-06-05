@@ -1,5 +1,3 @@
-![logo](logo.png)
-
 # Code1Example.github.io
 
 Code Examples Created By - [@A53o](https://github.com/A53o)
